@@ -1,10 +1,11 @@
-Auto 
+iOS - Auto Layout Demo
 =============
 
 iOS project to practice with Auto Layout. Also integrates other libraries for comparison.
 
 ## Dependencies 
 
+* [Xcode](http://itunes.apple.com/us/app/xcode/id497799835?ls=1&mt=12)
 * [Cocoapods](http://cocoapods.org/)
 
 ## Libraries & submodules
